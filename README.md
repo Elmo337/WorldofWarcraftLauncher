@@ -1,4 +1,4 @@
-![Launcher Screenshot](launcher.png)
+![Launcher Screenshot](Bild_2025-07-26_122723299.png)
 
 ## ⚙️ Features
 
